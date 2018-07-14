@@ -1,10 +1,10 @@
 ---
 title: {title} {year:04}-{month:02}-{date:02}
 category:
-  - {autonomy}
+  - {city_ja}
 tag:
   - 緊急速報
 ---
-{autonomy}で公開された情報です。（オリジナルは[こちら]({url})）
+{city_ja}で公開された情報です。（オリジナルは[こちら]({url})）
 
 {body}
